@@ -1,0 +1,28 @@
+name: Terry Lyons
+favicon: null
+layout_spectrum: 0.988968470133841
+typography_spectrum: 0.2127909930422902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7642467627301812
+  lightness: 0.24173704301938415
+  saturation: 0.5973973942454904
+  rhythmicContrast: 0.13172071380540729
+purpose: []
